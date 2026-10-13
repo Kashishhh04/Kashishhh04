@@ -1,4 +1,6 @@
-<h3 data-importer="text" align="left">Yo, I’m Kashish, a tech geek turning caffeine, curiosity, and big ideas into AI-powered reality. I love building cool stuff with code, bringing late night ideas to life, and creating solutions that make a difference. Always learning, always building, and occasionally breaking things just to fix them better. <br><br>Currently in my AI era. 🤖✨</h3>
+<h3 data-importer="text" align="center">Yo, I’m Aditya, a tech geek turning caffeine, curiosity, and big ideas into AI-powered reality. I love building cool stuff with code, bringing late night ideas to life, and creating solutions that make a difference. Always learning, always building, and occasionally breaking things just to fix them better.
+
+Currently in my AI era. 🤖✨</h3>
 
 ###
 
